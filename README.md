@@ -1,6 +1,6 @@
-### How to run the project:
+### Cómo iniciar un proyecto:
 
-Clone the repository and open it in the command-line interface:
+Clona el repositorio y ábrelo en la interfaz de línea de comandos:
 
 ```
 git clone https://github.com/tripleten-com/Iris4Friends
@@ -10,7 +10,7 @@ git clone https://github.com/tripleten-com/Iris4Friends
 cd iris_for_friends
 ```
 
-Create and activate a virtual environment:
+Crea y activa un entorno virtual:
 
 Windows
 ```
@@ -23,24 +23,24 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-Refresh PIP
+Actualiza pip:
 
 Windows
 ```
-python -m pip install --upgrade pip
+python -m pip install --actualiza pip
 ```
 Linux/macOS
 ```
-python3 -m pip install --upgrade pip
+python3 -m pip install --actualiza pip
 ```
 
-Install the dependencies from the requirements.txt file:
+Instala las dependencias del archivo requirements.txt:
 
 ```
 pip install -r requirements.txt
 ```
 
-Run migrations:
+Ejecuta migraciones:
 
 Windows
 ```
@@ -54,7 +54,7 @@ python3 manage.py makemigrations
 python3 manage.py migrate
 ```
 
-Run the project:
+Ejecuta el proyecto:
 
 Windows
 ```
