@@ -1,9 +1,9 @@
 """
-ASGI config for anfisa_for_friends project.
+Configuración ASGI para el proyecto iris_for_friends.
 
-It exposes the ASGI callable as a module-level variable named ``application``.
+Expone el ASGI que puede llamarse como una variable de nivel módulo llamada ``application``.
 
-For more information on this file, see
+Para más información acerca de este archivo, consulta
 https://docs.djangoproject.com/en/3.2/howto/deployment/asgi/
 """
 
